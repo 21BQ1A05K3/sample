@@ -1,3 +1,3 @@
 # sample
 This repo is to demonstrate to git commands.
-git clone : used to access remote repo in local machine.
+1. git clone : used to access remote repo in local machine.
