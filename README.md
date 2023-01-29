@@ -7,3 +7,4 @@ This repo is to demonstrate to git commands.
 5. git checkout    : In addition to checking out old commits and old file revisions, git checkout is also the means to navigate existing branches.                              Combined with the basic Git commands, it’s a way to work on a particular line of development.
 6. git clean       : Removes untracked files from the working directory. This is the logical counterpart to git reset, which (typically) only operates on                        tracked files. 
 6rutggggvggjvgjvhjvhvj
+ameer sayyad
